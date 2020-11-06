@@ -1,0 +1,11 @@
+Days: Monday, Wednesday, Friday
+Time: 1:01 pm
+Name: Inf43
+Meeting ID: 91233680892
+Link: https://uci.zoom.us/j/91233680892
+
+Days: Tuesday, Thursday
+Time: 4:01 pm
+Name: Oop
+Meeting ID: 012345678
+Link: https://uci.zoom.us/j/012345678
